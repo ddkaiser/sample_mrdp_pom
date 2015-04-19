@@ -1,4 +1,3 @@
-root@sandbox mrdp]# more utils/MRDPUtils.java
 package mrdp.utils;
 
 import java.util.HashMap;
